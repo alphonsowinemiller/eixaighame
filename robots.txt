@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://miuwohmoo.kali.gq/sitemap.xml
